@@ -3,5 +3,6 @@ import importlib
 
 import test
 
-a= test.circum(4)
+b= float(input('What is the radius of the circle?'))
+a= test.circum(b)
 print(a)
