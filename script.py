@@ -3,4 +3,5 @@ import importlib
 
 import test
 
-test.circum(4)
+a= test.circum(4)
+print(a)
