@@ -16,4 +16,4 @@ def area(r):
 
 
 print(area.__doc__)
-print(cirdum.__doc__)
+print(circum.__doc__)
