@@ -1,4 +1,6 @@
 print('cheers to the group works')
 
-import numpy
+import numpy as  np
+
+
 
